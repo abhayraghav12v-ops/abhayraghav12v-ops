@@ -1,9 +1,11 @@
 # 💫 About Me:
 
-🔭 Currently building Full-Stack Web Applications using the MERN Stack
-🌱 Learning Data Structures & Algorithms, Cloud Computing, Docker, and DevOps Fundamentals
-👯 Looking to collaborate on Web Development and Open Source Projects
-💬 Ask me about Java, JavaScript, React, Node.js, MongoDB, Git, and Networking Basics
+# 💫 About Me
+
+🔭 Currently building Full-Stack Web Applications using the MERN Stack<br>
+🌱 Learning Data Structures & Algorithms, Cloud Computing, Docker, and DevOps Fundamentals<br>
+👯 Looking to collaborate on Web Development and Open Source Projects<br>
+💬 Ask me about Java, JavaScript, React, Node.js, MongoDB, Git, and Networking Basics<br>
 ⚡ Fun fact: I enjoy turning ideas into real-world projects and continuously improving my development skills 🚀
 
 ## 🌐 Socials:
