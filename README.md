@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-# 💫 About Me
-
 🔭 Currently building Full-Stack Web Applications using the MERN Stack<br>
 🌱 Learning Data Structures & Algorithms, Cloud Computing, Docker, and DevOps Fundamentals<br>
 👯 Looking to collaborate on Web Development and Open Source Projects<br>
